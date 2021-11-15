@@ -99,10 +99,11 @@ p {
 .attribution {
   font-size: 11px;
   text-align: center;
+  line-height: 1.5;
 }
 
 .attribution a {
-  color: #3e52a3;
+  color: rgba(255, 255, 255, 0.6);
 }
 
 @media screen and (max-width: 600px) {
